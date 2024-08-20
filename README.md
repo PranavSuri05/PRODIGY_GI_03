@@ -1,3 +1,4 @@
+# PRODIGY_GI_03
 This repository provides an implementation of text generation based on Markov chains. Markov chains are mathematical models that predict the next state in a sequence based solely on the current state, making them suitable for tasks like text generation.
 
 Overview Markov chains are used to model systems that transition from one state to another. In the context of text generation, a Markov chain can be utilized to generate sequences of text that mimic the style of an input text by leveraging statistical patterns.
